@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>module1 assignment1</title>
+</head>
+<body>
+    <h1>Welcome to View my First Assignment!</h1>
+    <header>
+        <h1>CRM Admin</h1>
+        <nav role="navigation">
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">Contacts</a></li>
+                <li><a href="">Orders</a></li>
+                <li><a href="">Tasks</a></li>
+                <li><a href="">Evaluation Copies</a></li>
+            </ul>
+        </nav>
+        <h1>Employee Profile</h1>
+    </header>
+    <section>
+        <h2>Photo</h2>
+        <img src="C:\Users\hp\Desktop\vivo munni\1558098134795.jpg" width="120" height="150"/>
+        <figcaption> &emsp; Anusha </figcaption>
+    </section>
+    <section>
+        <h2>Personal Data</h2>
+        <p>Address <br> &emsp; Suratkal</p>
+        <p>City <br> &emsp; Mangalore</p>
+        <p>Region <br> &emsp; Dakshina kannada</p>
+        <p>Phone <br> &emsp; 7892567047</p>
+    </section>
+    <section>
+        <h2>Customers</h2>
+        <p> <a href="">john marias</a>
+            <br>University Of Paris
+        </p>
+        <p>
+            <a href="">Abraham</a>
+            <br>Oxford university
+        </p>
+  </section>
+  <footer>
+      <p><a href="">Home</a> | <a href="">Contacts</a> | <a href="">Locations</a></p>
+      <p>Copyright&copy;2017 CRM Admin</p>
+  </footer>
+</body>
+</html>
